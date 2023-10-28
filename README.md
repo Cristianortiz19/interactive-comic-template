@@ -1,1 +1,2 @@
-# interactive-comic-template
+# Interactive Comic
+Developed by Cristian Ortiz
